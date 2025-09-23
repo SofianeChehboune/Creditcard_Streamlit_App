@@ -12,7 +12,7 @@ st.set_page_config(
 # --- Barre Latérale ---
 with st.sidebar:
     st.image("banniere/distributeur.png")
-    st.markdown("Développé par :👇")
+    st.markdown("### 👨‍💻 Développé par")
     
     # Encoder les images en base64
     id_photo_b64 = get_image_as_base64("banniere/ID.jpg")
