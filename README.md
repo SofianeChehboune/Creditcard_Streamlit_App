@@ -82,12 +82,19 @@ streamlit run Home.py
 
 Ensuite, ouvrez le lien généré dans votre navigateur :  
 👉 [http://localhost:8501](http://localhost:8501)
+👉 [🌐 Accéder à l'application en ligne](https://creditcardappapp-cqfyezbn8yrqdua3pbyemh.streamlit.app/)
 
+<p align="center">
+  <a href="https://creditcardappapp-cqfyezbn8yrqdua3pbyemh.streamlit.app/">
+    <img src="https://img.shields.io/badge/Demo-Live%20App-brightgreen?style=for-the-badge&logo=streamlit" alt="Live Demo App"/>
+  </a>
+</p>
 ---
 
 ## 📸 Aperçu
 
-(Ajoutez ici une capture d’écran de votre application si nécessaire)
+
+<img width="1588" height="758" alt="banniere" src="https://github.com/user-attachments/assets/5793f88a-d13d-4720-8870-94e290f5b5d8" />
 
 ---
 
