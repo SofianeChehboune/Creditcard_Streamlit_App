@@ -1,6 +1,3 @@
-e vais inclure toutes les infos que tu viens de citer dans un seul README.md complet et propre.
-Tu pourras le copier-coller directement dans ton projet sans rien modifier.
-
 # 💳 Credit Card Fraud Detection – Streamlit App
 
 Cette application permet d’analyser et de prédire les fraudes de cartes bancaires à partir du dataset [Kaggle - Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud).  
