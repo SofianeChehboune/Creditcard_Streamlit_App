@@ -1,3 +1,20 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge&logo=streamlit" alt="Streamlit">
+  <img src="https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/Scikit--learn-ML-yellow?style=for-the-badge&logo=scikitlearn" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-green?style=for-the-badge&logo=pandas" alt="Pandas">
+</p>
+
+<h1 align="center">💳 Credit Card Fraud Detection – Streamlit App</h1>
+
+<p align="center">
+  <i>Application interactive pour analyser et prédire les fraudes de cartes bancaires avec Python et Machine Learning</i>
+</p>
+
+---
+
+
+
 # 💳 Credit Card Fraud Detection – Streamlit App
 
 Cette application permet d’analyser et de prédire les fraudes de cartes bancaires à partir du dataset [Kaggle - Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud).  
