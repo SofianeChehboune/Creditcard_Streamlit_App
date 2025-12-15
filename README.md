@@ -78,7 +78,7 @@ streamlit run Home.py
 
 Ensuite, ouvrez le lien généré dans votre navigateur :  
 👉 [http://localhost:8501](http://localhost:8501)
-👉 [🌐 Accéder à l'application en ligne](https://creditcardappapp-cqfyezbn8yrqdua3pbyemh.streamlit.app/)
+👉 [🌐 Accéder à l'application en ligne](https://creditcardappapp-rsqekjdydujnc5jaktjg8q.streamlit.app/)
 
 <p align="center">
   <a href="https://creditcardappapp-cqfyezbn8yrqdua3pbyemh.streamlit.app/">
