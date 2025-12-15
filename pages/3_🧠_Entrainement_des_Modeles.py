@@ -106,15 +106,15 @@ if st.button("Lancer l'entraînement et l'évaluation"):
                 cm = confusion_matrix(y_test, y_pred)
                 fig_cm = ff.create_annotated_heatmap(cm[::-1], x=['Non-Fraude', 'Fraude'], y=['Fraude', 'Non-Fraude'][::-1], colorscale='Blues')
                 fig_cm.update_layout(title_text="<b>Matrice de Confusion</b>", xaxis_title="Prédiction", yaxis_title="Vrai")
-                st.plotly_chart(fig_cm, use_container_width=True)
+                st.plotly_chart(fig_cm, width='stretch')
 
             col3, col4 = st.columns(2)
             with col3:
-                st.plotly_chart(plot_roc_curve(y_test, y_proba), use_container_width=True)
+                st.plotly_chart(plot_roc_curve(y_test, y_proba), width='stretch')
 
             with col4:
                 if hasattr(model, 'feature_importances_'):
-                    st.plotly_chart(plot_feature_importance(model, X_test.columns), use_container_width=True)
+                    st.plotly_chart(plot_feature_importance(model, X_test.columns), width='stretch')
                 else:
                     st.info("Ce modèle ne fournit pas d'importance pour les caractéristiques.")
 
