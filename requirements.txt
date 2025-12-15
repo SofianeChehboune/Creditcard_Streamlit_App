@@ -1,5 +1,8 @@
 streamlit
 pandas
 scikit-learn
+scikit-learn>=1.4.2
 plotly
 imbalanced-learn
+imbalanced-learn>=0.12.0
+
