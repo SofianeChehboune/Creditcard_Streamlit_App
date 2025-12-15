@@ -81,7 +81,7 @@ Ensuite, ouvrez le lien généré dans votre navigateur :
 👉 [🌐 Accéder à l'application en ligne](https://creditcardappapp-rsqekjdydujnc5jaktjg8q.streamlit.app/)
 
 <p align="center">
-  <a href="https://creditcardappapp-cqfyezbn8yrqdua3pbyemh.streamlit.app/">
+  <a href="https://creditcardappapp-rsqekjdydujnc5jaktjg8q.streamlit.app/">
     <img src="https://img.shields.io/badge/Demo-Live%20App-brightgreen?style=for-the-badge&logo=streamlit" alt="Live Demo App"/>
   </a>
 </p>
